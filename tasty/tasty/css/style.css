@@ -7607,7 +7607,7 @@ h1, h2, h3, h4, h5,
   clear: both; }
 
 .reservation {
-  background: #FFFFFF; }
+  background: #e9e9e9; }
   @media (min-width: 768px) {
     .reservation {
       margin-top: -145px; } }
@@ -8962,3 +8962,26 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+
+dogs-category-result-item {
+  margin-top: -200px; }
+  .special-dish .container {
+    z-index: 2;
+    position: relative;
+    padding: 30px; }
+    @media (min-width: 768px) {
+      .special-dish .container {
+        padding: 70px; } }
+
+dogs-category-results {
+    padding: 20px 0;
+    margin: auto;
+    width: 100%;
+    width: calc(100% - 80px + 2.5%);
+}
+
+dogs-category-result-item img {
+    margin: auto;
+    width: 90%;
+    position: relative;
+}
