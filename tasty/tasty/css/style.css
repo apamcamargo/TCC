@@ -7299,7 +7299,7 @@ h1, h2, h3, h4, h5,
     padding-bottom: 30px;
     padding-left: 20px;
     padding-right: 20px;
-    color: #f0f0f0;
+    color: #000000;
     opacity: 1 !important; }
     .ftco-navbar-light .navbar-nav > .nav-item > .nav-link:hover {
       color: #fff; }
@@ -7467,8 +7467,8 @@ h1, h2, h3, h4, h5,
         right: 0;
         bottom: 0;
         content: '';
-        background: #404044;
-        opacity: .5; }
+        background: #FFFFFF;
+        opacity: .10; }
       .owl-carousel.home-slider .slider-item .slider-text {
         color: #fff;
         height: calc(100vh - 117px);
